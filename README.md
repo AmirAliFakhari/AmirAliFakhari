@@ -21,4 +21,3 @@ My primary research are specifically in **Deep Reinforcement Learning**, **AI Sa
 
 - 📧 **Email:** `amiralifakhari9@gmail.com`
 - 💼 **LinkedIn:** [linkedin.com/in/amirali-fakhari-zavareh](https://linkedin.com/in/amirali-fakhari-zavareh)
-- 🌐 **Portfolio:** [amiralifakhari.github.io/Software_Project](https://amiralifakhari.github.io/Software_Project/)
