@@ -7,7 +7,7 @@ My primary research interests are specifically in **Deep Reinforcement Learning*
 
 ---
 
-### 🔬 Research & Projects in Reinforcement Learning
+### Research & Projects in Reinforcement Learning
 
 I have experience in RL research, including:
 
@@ -17,7 +17,7 @@ I have experience in RL research, including:
 
 ---
 
-### 🔧 My Skills & Technologies
+### My Skills & Technologies
 
 * **Programming Languages:** Python, C++
 * **ML Frameworks:** JAX, PyTorch, NumPy, Pandas
@@ -25,7 +25,7 @@ I have experience in RL research, including:
 
 ---
 
-### 📫 How to Reach Me
+### How to Reach Me
 
-* 📧 **Email:** `amiralifakhari9@gmail.com`
-* 💼 **LinkedIn:** [linkedin.com/in/amirali-fakhari-zavareh](https://linkedin.com/in/amirali-fakhari-zavareh)
+* **Email:** `amiralifakhari9@gmail.com`
+* **LinkedIn:** [linkedin.com/in/amirali-fakhari-zavareh](https://linkedin.com/in/amirali-fakhari-zavareh)
