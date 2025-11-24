@@ -1,8 +1,5 @@
 # Hi there, I'm Amirali Fakhari 👋
 
-<a href="https://amiralifakhari.github.io/Software_Project/">
-  <img align="right" width="45%" src="https://placehold.co/600x400/1f242d/0ef?text=Welcome!&font=poppins" />
-</a>
 
 I'm a passionate Student and Researcher at Amirkabir University of Technology (AUT), pursuing a Bachelor's in Applied Mathematics with a minor in Computer Science.
 
